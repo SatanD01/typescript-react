@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "name": "typescript-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatanD01/typescript-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatanD01/typescript-react/issues"
+  },
+  "homepage": "https://github.com/SatanD01/typescript-react#readme",
+  "description": ""
+}
