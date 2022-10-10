@@ -11,3 +11,5 @@ interface ModelData {
     title: string,
     value: string // number [] boolean
 }
+
+export {}
