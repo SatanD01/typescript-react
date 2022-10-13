@@ -2,4 +2,4 @@
 function append(el, list) {
     return list.concat(el);
 }
-append(['as'], ['asd']);
+append('as', ['asd']);
